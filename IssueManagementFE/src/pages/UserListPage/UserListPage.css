@@ -1,0 +1,11 @@
+.box {
+    width: 90%;
+}
+
+.float-right {
+    float: right;
+}
+
+#floatingInputdanger:focus .floatingLabeldanger {
+    color:red
+}
